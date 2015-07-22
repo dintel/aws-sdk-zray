@@ -1,0 +1,14 @@
+{
+  "name" : "aws-sdk",
+  "display_name" : "AWS SDK plugin for Z-Ray",
+  "version" : "1.0.0",
+  "type": ["zray"],
+  "logo": "logo.png",
+  "eula": "LICENSE.txt",
+  "readme": "README.md",
+  "dependencies": {
+    "plugin": {
+        "min": "1.0.0"
+    }
+  }
+}

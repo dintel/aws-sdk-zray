@@ -21,7 +21,7 @@ class AwsSdkZray {
 }
 
 // Create new extension - disabled
-$zre = new \ZRayExtension('AwsSdkZray');
+$zre = new \ZRayExtension('AWSphpSDK');
 
 // set additional data such as logo
 $zre->setMetadata(array(

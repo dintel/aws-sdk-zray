@@ -1,6 +1,6 @@
 {
   "name" : "aws-php-sdk",
-  "display_name" : "AWS PHP SDK plugin for Z-Ray",
+  "display_name" : "AWS PHP SDK",
   "version" : "1.0.0",
   "type": ["zray"],
   "logo": "logo.png",
